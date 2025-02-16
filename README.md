@@ -12,40 +12,40 @@ I am a passionate **Software Developer** with experience in **Full Stack Web Dev
 ---
 
 ## 📩 Contact Me:
-[![Email](https://img.shields.io/badge/Email-octaviodiaz262@gmail.com-blue?style=flat-square&logo=gmail)](mailto:octaviodiaz262@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Octavio%20Diaz-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/octadiazdev)  
+[![Email](https://img.shields.io/badge/Email-octaviodiaz262@gmail.com-blue?style=flat-square&logo=gmail&logoWidth=20)](mailto:octaviodiaz262@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Octavio%20Diaz-blue?style=flat-square&logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/octadiazdev)  
 
 ---
 
 ## 🌍 Languages:
 - 🇪🇸 Spanish (Native)  
-- 🇬🇧 English (C1 Advanced)  
+- 🇺🇸 English (C1 Advanced)  
 
 ---
 
 ## 🛠️ Tech Stack:
 
 ### 🔹 Frontend:
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)  
-![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-blue?style=flat-square&logo=tailwind-css)  
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoWidth=20)  
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoWidth=20)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoWidth=20)  
+![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoWidth=20)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-blue?style=flat-square&logo=tailwind-css&logoWidth=20)  
 
 ### 🔹 Backend:
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)  
-![PHP](https://img.shields.io/badge/PHP-blue?style=flat-square&logo=php)  
-![REST APIs](https://img.shields.io/badge/REST%20APIs-lightgrey?style=flat-square&logo=api)  
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoWidth=20)  
+![PHP](https://img.shields.io/badge/PHP-blue?style=flat-square&logo=php&logoWidth=20)  
+![REST APIs](https://img.shields.io/badge/REST%20APIs-lightgrey?style=flat-square&logo=api&logoWidth=20)  
 
 ### 🔹 Databases:
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql)  
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoWidth=20)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql&logoWidth=20)  
 
 ### 🔹 Tools:
-![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git)  
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)  
-![Agile](https://img.shields.io/badge/Agile-blue?style=flat-square&logo=agile)  
+![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoWidth=20)  
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoWidth=20)  
+![Agile](https://img.shields.io/badge/Agile-blue?style=flat-square&logo=agile&logoWidth=20)  
 
 ---
 
-🚀 **Let’s build something amazing together!** 🚀
+🚀 **Let's build something amazing together!** 🚀
